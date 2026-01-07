@@ -25,3 +25,7 @@ Weather App built with HTML, CSS, and JavaScript. Allows you to search any city 
 1. Clone ou baixe este repositório / Clone or download this repository  
 2. Abra `index.html` no navegador / Open `index.html` in your browser  
 3. Digite uma cidade na caixa de busca e pressione Enter / Type a city in the search box and press Enter
+
+## Teste Online / Try Online
+[Weather App Online](https://xisalimax.github.io/weather-js/)
+
